@@ -34,5 +34,5 @@ A sleek, dark-mode Pomodoro focus timer built with vanilla HTML, CSS, and JavaSc
 
 \- Vanilla JavaScript (Timers \& DOM Manipulation)
 
-\[click to view](
+
 
